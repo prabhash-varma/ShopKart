@@ -1,0 +1,62 @@
+[
+    {
+        "title":"Apple iPhone 12 (128GB)",
+        "image":"/images/iphone12.jpg",
+        "price":84900,
+        "btn":"Add to Cart"
+    },
+    {
+        "title":"Apple iPhone 11 (128GB)",
+        "image":"/images/iphone11.jpg",
+        "price":59900,
+        "btn":"Add to Cart"
+    },
+    {
+        "title":"Apple iPhone X (256GB)",
+        "image":"/images/iphone10.jpg",
+        "price":49994,
+        "btn":"Add to Cart"
+    },
+    {
+        "title":"Redmi Y3 (Red, 4GB RAM, 64GB)",
+        "image":"/images/miy3.jpg",
+        "price":11999,
+        "btn":"Add to Cart"
+    },
+    {
+        "title":"Mi 10i 5G (Black, 6GB RAM, 128GB)",
+        "image":"/images/mi10i.jpg",
+        "price":21999,
+        "btn":"Add to Cart"
+    },
+    {
+        "title":"Redmi Y3 (Red, 4GB RAM, 64GB)",
+        "image":"/images/miy3.jpg",
+        "price":11999,
+        "btn":"Add to Cart"
+    },
+    {
+        "title":"Mi 10i 5G (Black, 6GB RAM, 128GB)",
+        "image":"/images/mi10i.jpg",
+        "price":21999,
+        "btn":"Add to Cart"
+    },
+    {
+        "title":"Apple MacBook Pro (16GB RAM, 512GB)",
+        "image":"/images/macbookpro.jpg",
+        "price":169990,
+        "btn":"Add to Cart"
+    },
+    {
+        "title":"Mi 10i 5G (Black, 6GB RAM, 128GB)",
+        "image":"/images/mi10i.jpg",
+        "price":21999,
+        "btn":"Add to Cart"
+    },
+    {
+        "title":"Apple MacBook Pro (16GB RAM, 512GB)",
+        "image":"/images/macbookpro.jpg",
+        "price":169990,
+        "btn":"Add to Cart"
+    }
+]
